@@ -1,3 +1,6 @@
+<h3> WhatsApp-Clone Project <img src="https://urbanliving2610.files.wordpress.com/2017/06/whatsapp-logo-png-transparent.png" height="40px">
+</h3>
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
