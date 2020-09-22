@@ -1,6 +1,12 @@
 <h3> WhatsApp-Clone Project <img src="https://urbanliving2610.files.wordpress.com/2017/06/whatsapp-logo-png-transparent.png" height="40px">
 </h3>
 
+
+### Description
+
+Whatsapp-clone web application https://whatsapp-clone-1ba03.web.app/.
+A ReactJs Messaging App. 
+Features: Authentication login with Google| Live Chat Room |
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
