@@ -5,8 +5,10 @@
 ### Description
 
 Whatsapp-clone web application https://whatsapp-clone-1ba03.web.app/.
-A ReactJs Messaging App. 
-Features: Authentication login with Google| Live Chat Room |
+<br/>
+A ReactJs Messaging App. <br/>
+<h3>Features:</h3> <p>Authentication login with Google| Live Chat Room |</p><br/><br/>
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
